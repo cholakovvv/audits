@@ -83,16 +83,16 @@ Gasbot is a revolutionary service that simplifies gas acquisition across multipl
 
 | Severity |   ID   |                                                    Title                                                    |   Status   |
 | :------: | :----: | :---------------------------------------------------------------------------------------------------------: | :--------: |
-|  Medium  | [M-01] | Not calling approve(0) before setting a new approval causes the call to revert when used with Tether (USDT) | Will fix |
-|  Medium  | [M-02] |                              Missing transaction expiration check in `_swap()`                              | Will fix |
-|  Medium  | [M-03] |                              Gas griefing is possible on unsafe external call                               | Will fix |
-|   Low    | [L-01] |                                    Consider bounding input array length                                     | Will fix |
-|   Low    | [L-02] |                  Consider implementing two-step procedure for updating protocol addresses                   | Will fix |
-|   Low    | [L-03] |                         External calls in an un-bounded forloop may result in a DOS                         | Will fix |
-|   Low    | [L-04] |           Functions calling contracts/addresses with transfer hooks are missing reentrancy guards           | Will fix |
-|   Low    | [L-05] |                                              Loss of precision                                              | Will fix |
-|   Low    | [L-06] |                           Unused `receive()` function will lock Ether in contract                           | Will fix |
-|   Low    | [L-07] |                                   Return values of approve() not checked                                    | Will fix |
+|  Medium  | [M-01] | Not calling approve(0) before setting a new approval causes the call to revert when used with Tether (USDT) | Fixed |
+|  Medium  | [M-02] |                              Missing transaction expiration check in `_swap()`                              | Fixed |
+|  Medium  | [M-03] |                              Gas griefing is possible on unsafe external call                               | Won't fix |
+|   Low    | [L-01] |                                    Consider bounding input array length                                     | Fixed |
+|   Low    | [L-02] |                  Consider implementing two-step procedure for updating protocol addresses                   | Fixed |
+|   Low    | [L-03] |                         External calls in an un-bounded forloop may result in a DOS                         | Fixed |
+|   Low    | [L-04] |           Functions calling contracts/addresses with transfer hooks are missing reentrancy guards           | Fixed |
+|   Low    | [L-05] |                                              Loss of precision                                              | Fixed |
+|   Low    | [L-06] |                           Unused `receive()` function will lock Ether in contract                           | Fixed |
+|   Low    | [L-07] |                                   Return values of approve() not checked                                    | Fixed |
 
 # Detailed findings
 
