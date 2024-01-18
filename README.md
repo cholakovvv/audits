@@ -9,4 +9,4 @@ You can find me on Twitter @cholakovv.
 
 ### January 2023
 
-[GasBot V2 - Cross-chain gas delivery protocol]()
+[GasBot V2 - Cross-chain gas delivery protocol](./reports/solo/GasBotV2.md)
