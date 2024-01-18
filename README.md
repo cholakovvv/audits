@@ -5,8 +5,8 @@ Currently, I am actively participating in contests on platforms such as Code4ren
 
 You can find me on Twitter @cholakovv.
 
-## Private Audits
+## Engagements
 
-| Name                                                      | Type of protocol | # of findings and severity | Report                                                                                                 |
-| :-------------------------------------------------------- | :--------------- | :------------------------- | :----------------------------------------------------------------------------------------------------- |
-|  | Gas swapping      |               | comming soon |
+### January 2023
+
+[GasBot V2 - Cross-chain gas delivery protocol]()
