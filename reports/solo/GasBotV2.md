@@ -62,8 +62,8 @@ Gasbot is a revolutionary service that simplifies gas acquisition across multipl
 ### Scope
 
 | File                                                                                                                          | SLOC |
-| :---------------------------------------------------------------------------------------------------------------------------- | ---: | --- |
-| _Contracts (1)_                                                                                                               |      |     |
+| :---------------------------------------------------------------------------------------------------------------------------- | ---: |
+| _Contracts (1)_                                                                                                               |      |
 | [src/GasbotV2.sol](https://github.com/GasBot-xyz/gasbot_audit/blob/efb5e1d3735f24c7fadb17d59247a262e2647c7b/src/GasbotV2.sol) |  312 |
 | _Abstracts (0)_                                                                                                               |      |
 | _Interfaces (0)_                                                                                                              |      |
