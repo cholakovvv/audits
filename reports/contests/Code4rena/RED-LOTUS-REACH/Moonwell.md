@@ -2,7 +2,7 @@ Participated as part of RED-LOTUS-REACH
 
 # What is Moonwell?
 
-PoolTogether is a no-loss prize savings protocol that enables you to win by saving.
+Moonwell is an open lending and borrowing protocol on Base, Moonbeam, and Moonriver.
 
 [Link to the contest](https://code4rena.com/audits/2023-07-moonwell#top)
 
