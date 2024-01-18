@@ -13,13 +13,13 @@ If you are a founder or an engineer looking to get your smart contract protocol 
 
 ## Private Audits
 
-### January 2023
-
-[GasBot V2 - Cross-chain gas delivery protocol](./reports/solo/GasBotV2.md)
+| Protocol                                  | Type of Protocol                     | # of Findings and Severity | Report                                                        | Date           |
+|------------------------------------------|--------------------------------------|----------------------------|------------------------------------------------------------------|----------------|
+| [GasBot V2](https://www.gasbot.xyz/) |  Cross-chain gas delivery protocol    | 3 Medium and 7 Low           | [Link](./reports/solo/GasBotV2.md)  | Jan 3, 2024    |
 
 ## Public Contests
 
-| Contest                                  | Platform  | Type of Protocol                     | # of Findings and Severity | My Report                                                        | Date           |
+| Protocol                                  | Platform  | Type of Protocol                     | # of Findings and Severity | Report                                                        | Date           |
 |------------------------------------------|-----------|--------------------------------------|----------------------------|------------------------------------------------------------------|----------------|
 | [Tapioca DAO](https://code4rena.com/audits/2023-07-tapioca-dao#top) | Code4rena | First-ever Omnichain Money Market    | Grade A Analysis           | [Link](./reports/contests/Code4rena/RED-LOTUS-REACH/Tapioca.md)  | Jul 5, 2023    |
 | [Moonwell](https://code4rena.com/audits/2023-07-moonwell#top)       | Code4rena | Open Lending and Borrowing Protocol  | 1 Medium                   | [Link](./reports/contests/Code4rena/RED-LOTUS-REACH/Moonwell.md) | Jul 24, 2023   |
