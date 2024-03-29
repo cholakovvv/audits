@@ -26,6 +26,7 @@ If you are a founder or an engineer looking to get your smart contract protocol 
 | [BeedleFi](https://www.codehawks.com/contests/clkbo1fa20009jr08nyyf9wbx) | CodeHawks | Oracle-Free Perpetual Lending        | 1 Medium                   | [Link](./reports/contests/CodeHawks/BeedleFi.md)                | Jul 24, 2023   |
 | [Foundry DeFi Stablecoin](https://www.codehawks.com/contests/cljx3b9390009liqwuedkn0m0) | CodeHawks | Stablecoin                           | 2 Medium                   | [Link](./reports/contests/CodeHawks/FoundryDefiStablecoin.md)    | Jul 24, 2023   |
 | [Pool Together V5](https://code4rena.com/audits/2023-08-pooltogether-v5-part-deux#top) | Code4rena | No-Loss Prize Savings Protocol       | Grade B Analysis           | [Link](./reports/contests/Code4rena/PoolTogetherV5.md)          | Aug 2, 2023    |
+| [Ethereum Credit Guild](https://code4rena.com/audits/2023-12-ethereum-credit-guild#top) | Code4rena | Trust minimized pooled lending protocol       | 2 High 2 Medium 1 Low          | [Link](./reports/contests/Code4rena/EthereumCreditGuild.md)          | Dec 11, 2023    |
 
 
 
