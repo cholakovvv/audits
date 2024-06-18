@@ -29,8 +29,7 @@ If you are a founder or an engineer looking to get your smart contract protocol 
 | [Ethereum Credit Guild](https://code4rena.com/audits/2023-12-ethereum-credit-guild#top) | Code4rena | Trust minimized pooled lending protocol       | 2 High 2 Medium 1 Low          | [Link](./reports/contests/Code4rena/EthereumCreditGuild.md)          | Dec 11, 2023    |
 | [Teller Finance](https://audits.sherlock.xyz/contests/295) | Sherlock | Non-custodial lending book       | 1 High          | [Link](https://github.com/sherlock-audit/2024-04-teller-finance-judging/issues/49)          | Apr 24, 2024    |
 | [Noya](https://code4rena.com/audits/2024-04-noya#top) | Code4rena | AI Agents/omnichain liquidity/ZKML       | Soon          | Soon          | Apr 26, 2024    |
-| [LoopFi](https://code4rena.com/audits/2024-05-loopfi#top) | Code4rena | Dedicated lending market for Ethereum carry trades.       | Soon          | Soon          | May 1, 2024    |
-| [Munchables](https://code4rena.com/audits/2024-05-munchables#top) | Code4rena | Point farming game       | Soon          | Soon          | May 22, 2024    |
+| [Predy](https://code4rena.com/audits/2024-05-predy#top) | Code4rena | Vault-free Intent-based DEX for Perpetuals and Gamma       | Soon          | Soon          | May 24, 2024    |
 
 
 
