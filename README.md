@@ -31,5 +31,10 @@ If you are a founder or an engineer looking to get your smart contract protocol 
 | [Noya](https://code4rena.com/audits/2024-04-noya#top) | Code4rena | AI Agents/omnichain liquidity/ZKML       | 1 Medium          | Soon          | Apr 26, 2024    |
 | [Predy](https://code4rena.com/audits/2024-05-predy#top) | Code4rena | Vault-free Intent-based DEX for Perpetuals and Gamma       | 1 High 1 Medium          | Soon          | May 24, 2024    |
 
+# Testimonials
+
+**[0xDjango](https://x.com/0xDjangoOnChain):**
+
+![django]([http://url/to/img.png](https://ibb.co/hZTf0yM)) 
 
 
