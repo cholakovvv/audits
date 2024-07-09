@@ -35,6 +35,6 @@ If you are a founder or an engineer looking to get your smart contract protocol 
 
 **[0xDjango](https://x.com/0xDjangoOnChain):**
 
-![alt text](https://ibb.co/hZTf0yM) 
+![django testimonial](https://ibb.co/hZTf0yM) 
 
 
