@@ -2,9 +2,7 @@
 
 If you are a founder or an engineer looking to get your smart contract protocol audited by a security expert, you can contact me on [Twitter](https://twitter.com/cholakovv), [Telegram](https://t.me/cholakovv), or Discord @cholakovv to discuss your needs and help you secure your project.
 
-# Engagements
-
-## Private Audits
+## Private Engagements
 
 | Protocol                             | Type of Protocol                  | # of Findings and Severity | Report                             | Date        |
 | ------------------------------------ | --------------------------------- | -------------------------- | ---------------------------------- | ----------- |
