@@ -1,14 +1,6 @@
-# Introduction
+# Audit Portfolio - cholakovv
 
-My name is Cholakov and this is my public portfolio of my experience as an independent EVM security researcher.
-
-Currently, I am actively participating in contests on platforms such as Code4rena, Sherlock, and CodeHawks.
-
-You can find me on Twitter @cholakovv.
-
-# Book an audit
-
-If you are a founder or an engineer looking to get your smart contract protocol audited by a security expert, you can contact me on [Twitter](https://twitter.com/cholakovv), [Telegram](https://t.me/cholakovv), or [Discord](discord.com/users/972547536470540359) to discuss your needs and help you secure your project.
+If you are a founder or an engineer looking to get your smart contract protocol audited by a security expert, you can contact me on [Twitter](https://twitter.com/cholakovv), [Telegram](https://t.me/cholakovv), or Discord @cholakovv to discuss your needs and help you secure your project.
 
 # Engagements
 
@@ -18,7 +10,7 @@ If you are a founder or an engineer looking to get your smart contract protocol 
 | ------------------------------------ | --------------------------------- | -------------------------- | ---------------------------------- | ----------- |
 | [GasBot V2](https://www.gasbot.xyz/) | Cross-chain gas delivery protocol | 3 Medium and 7 Low         | [Link](./reports/solo/GasBotV2.md) | Jan 3, 2024 |
 
-## Public Contests
+## Competitive audits
 
 | Protocol                                                                                | Platform  | Type of Protocol                                     | # of Findings and Severity | Report                                                                             | Date         |
 | --------------------------------------------------------------------------------------- | --------- | ---------------------------------------------------- | -------------------------- | ---------------------------------------------------------------------------------- | ------------ |
@@ -30,8 +22,8 @@ If you are a founder or an engineer looking to get your smart contract protocol 
 | [Ethereum Credit Guild](https://code4rena.com/audits/2023-12-ethereum-credit-guild#top) | Code4rena | Trust minimized pooled lending protocol              | 2 High 2 Medium 1 Low      | [Link](./reports/contests/Code4rena/EthereumCreditGuild.md)                        | Dec 11, 2023 |
 | [Teller Finance](https://audits.sherlock.xyz/contests/295)                              | Sherlock  | Non-custodial lending book                           | 1 High                     | [Link](https://github.com/sherlock-audit/2024-04-teller-finance-judging/issues/49) | Apr 24, 2024 |
 | [Noya](https://code4rena.com/audits/2024-04-noya#top)                                   | Code4rena | AI Agents/omnichain liquidity/ZKML                   | 1 Medium                   | Soon                                                                               | Apr 26, 2024 |
-| [Predy](https://code4rena.com/audits/2024-05-predy#top)                                 | Code4rena | Vault-free Intent-based DEX for Perpetuals and Gamma | 1 High 1 Medium            | Soon                                                                               | May 24, 2024 |
-| [Union Finance Update #2](https://audits.sherlock.xyz/contests/445)                                 | Sherlock | p2p credit network | Soon            | Soon                                                                               | Jul 8, 2024 |
+| [Predy](https://code4rena.com/audits/2024-05-predy#top)                                 | Code4rena | Vault-free Intent-based DEX for Perpetuals and Gamma | 1 High 1 Medium            |                                                                                | May 24, 2024 |
+| [TraitForge](https://code4rena.com/audits/2024-07-traitforge)                                 | Code4rena | NFT game | 2M            |                                                                                | Jul 29, 2024 |
 
 # Testimonials
 
