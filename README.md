@@ -21,7 +21,7 @@ If you are a founder or an engineer looking to get your smart contract protocol 
 | [Teller Finance](https://audits.sherlock.xyz/contests/295)                              | Sherlock  | Non-custodial lending book                           | 1 High                     | [Link](https://github.com/sherlock-audit/2024-04-teller-finance-judging/issues/49) | Apr 24, 2024 |
 | [Noya](https://code4rena.com/audits/2024-04-noya#top)                                   | Code4rena | AI Agents/omnichain liquidity/ZKML                   | 1 Medium                   |                                                                                | Apr 26, 2024 |
 | [Predy](https://code4rena.com/audits/2024-05-predy#top)                                 | Code4rena | Vault-free Intent-based DEX for Perpetuals and Gamma | 1 High 1 Medium            | [Link](https://code4rena.com/reports/2024-05-predy)                                                                               | May 24, 2024 |
-| [TraitForge](https://code4rena.com/audits/2024-07-traitforge)                                 | Code4rena | NFT game | 2M            |                                                                                | Jul 29, 2024 |
+| [TraitForge](https://code4rena.com/audits/2024-07-traitforge)                                 | Code4rena | NFT game | 2 Medium            |                                                                                | Jul 29, 2024 |
 
 # Testimonials
 
