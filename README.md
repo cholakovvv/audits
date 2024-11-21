@@ -7,6 +7,7 @@ If you are a founder or an engineer looking to get your smart contract protocol 
 | Protocol                             | Type of Protocol                  | # of Findings and Severity | Report                             | Date        |
 | ------------------------------------ | --------------------------------- | -------------------------- | ---------------------------------- | ----------- |
 | [GasBot V2](https://www.gasbot.xyz/) | Cross-chain gas delivery protocol | 3 Medium and 7 Low         | [Link](./reports/solo/GasBotV2.md) | Jan 3, 2024 |
+| [Monadex](https://docs.monadex.exchange/) | CPAMM | 2 Critical, 2 High, 6 Medium and 6 Low         | Soon | Sep 18, 2024 |
 
 ## Competitive audits
 
