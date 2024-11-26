@@ -28,4 +28,10 @@ If you are a founder or an engineer looking to get your smart contract protocol 
 
 **[0xDjango](https://x.com/0xDjangoOnChain):**
 
-![django testimonial](/testimonials/Django.png)
+![django's testimonial](/testimonials/Django.png)
+
+**[Bloqarl](https://x.com/TheBlockChainer):**
+
+![Bloqarl's testimonial](/testimonials/Screenshot%202024-11-26%20at%2013.52.12.png)
+
+
